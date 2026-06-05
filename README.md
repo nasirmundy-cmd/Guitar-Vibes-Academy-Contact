@@ -10,10 +10,10 @@
 <h1>Contact Us</h1>
 
 <form>
-  <label>Name:</label>
+  <label>Name: Nasir</label>
   <input type="text">
 
-  <label>Email:</label>
+  <label>Email: nasir.mundy@scholars.compasscharters.org</label>
   <input type="email">
 
   <label>Message:</label>
